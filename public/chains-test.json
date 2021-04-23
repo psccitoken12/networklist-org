@@ -93,7 +93,7 @@
         "app_resource": {
             "ic_chain_select": "https://tp-upload.cdn.bcebos.com/v1/blockChain/Polygon/1.png",
             "ic_chain_unselect": "https://tp-upload.cdn.bcebos.com/v1/blockChain/Polygon/0.png",
-            "color_chain_bg": "#EAC541"
+            "color_chain_bg": "#7F4CDE"
         }
     },
     {
@@ -112,7 +112,12 @@
             "https://api.avax.network/ext/bc/C/rpc"
         ],
         "faucets": [],
-        "infoURL": "https://cchain.explorer.avax.network/"
+        "infoURL": "https://cchain.explorer.avax.network/",
+        "app_resource": {
+            "ic_chain_select": "https://tp-upload.cdn.bcebos.com/v1/blockChain/Avalanche/1.png",
+            "ic_chain_unselect": "https://tp-upload.cdn.bcebos.com/v1/blockChain/Avalanche/0.png",
+            "color_chain_bg": "#E92734"
+        }
     },
     {
         "name": "Fuse Mainnet",
@@ -154,7 +159,12 @@
             "https://fantomscan.io/rpc"
         ],
         "faucets": [],
-        "infoURL": "https://fantom.foundation"
+        "infoURL": "https://fantom.foundation",
+        "app_resource": {
+            "ic_chain_select": "https://tp-upload.cdn.bcebos.com/v1/blockChain/Fantom/1.png",
+            "ic_chain_unselect": "https://tp-upload.cdn.bcebos.com/v1/blockChain/Fantom/0.png",
+            "color_chain_bg": "#1969FF"
+        }
     },
     {
         "name": "Fusion Mainnet",
@@ -173,7 +183,12 @@
             "https://fsn.dev/api"
         ],
         "faucets": [],
-        "infoURL": "https://www.fusion.org/"
+        "infoURL": "https://www.fusion.org/",
+        "app_resource": {
+            "ic_chain_select": "https://tp-upload.cdn.bcebos.com/v1/blockChain/Fusion/1.png",
+            "ic_chain_unselect": "https://tp-upload.cdn.bcebos.com/v1/blockChain/Fusion/0.png",
+            "color_chain_bg": "#2E3B4A"
+        }
     },
     {
         "name": "ThunderCore Mainnet",
@@ -216,7 +231,12 @@
             "https://ethereumclassic.network"
         ],
         "faucets": [],
-        "infoURL": "https://ethereumclassic.org"
+        "infoURL": "https://ethereumclassic.org",
+        "app_resource": {
+            "ic_chain_select": "https://tp-upload.cdn.bcebos.com/v1/blockChain/EthereumClassic/1.png",
+            "ic_chain_unselect": "https://tp-upload.cdn.bcebos.com/v1/blockChain/EthereumClassic/0.png",
+            "color_chain_bg": "#3CBA3B"
+        }
     },
     {
         "name": "Ethereum Testnet Ropsten",
