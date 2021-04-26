@@ -217,7 +217,7 @@
     },
     {
         "name": "Hoo Smart Chain Testnet",
-        "chain": "ETH",
+        "chain": "HSC",
         "network": "testnet",
         "rpc": [
             "https://http-testnet.hoosmartchain.com"
