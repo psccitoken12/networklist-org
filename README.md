@@ -2,6 +2,8 @@
 
 Fork this repo and add your evm chain info into `chains.json` 
 
+Example:
+
 ```javascript
 {
     "name": "xDAI Chain",
