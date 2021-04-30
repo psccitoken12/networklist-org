@@ -36,7 +36,7 @@ Example:
 }
 ```
 
-`app_resource` is optional, which is only affect the appearance in TokenPocket Wallet. You can follow the standard blow:
+`app_resource` is optional, which is only affect the appearance in TokenPocket Wallet. You can follow the standard below:
 
 
 ![standard](https://tp-statics.tokenpocket.pro/images/custom-chains-standard-1.png)
