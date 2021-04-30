@@ -155,7 +155,7 @@
             "decimals": 18
         },
         "rpc": [
-            "https://rpc.fantom.network",
+            "https://rpcapi.fantom.network",
             "https://fantomscan.io/rpc"
         ],
         "faucets": [],
