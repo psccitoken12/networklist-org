@@ -269,11 +269,11 @@
         "shortName": "MVS",
         "chain": "MVS",
         "network": "mainnet",
-        "networkId": 1,
+        "networkId": 23,
         "nativeCurrency": {
             "name": "ETP",
             "symbol": "ETP",
-            "decimals": 23
+            "decimals": 18
         },
         "rpc": [
             "https://rpc.gene.finance"
