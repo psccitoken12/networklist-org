@@ -264,6 +264,24 @@
         }
     },
     {
+        "name": "MVS",
+        "chainId": 23,
+        "shortName": "MVS",
+        "chain": "MVS",
+        "network": "mainnet",
+        "networkId": 1,
+        "nativeCurrency": {
+            "name": "ETP",
+            "symbol": "ETP",
+            "decimals": 23
+        },
+        "rpc": [
+            "https://rpc.gene.finance"
+        ],
+        "faucets": [],
+        "infoURL": ""
+    },
+    {
         "name": "Ethereum Testnet Ropsten",
         "chainId": 3,
         "shortName": "rop",
