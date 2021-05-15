@@ -276,7 +276,7 @@
             "decimals": 18
         },
         "rpc": [
-            "https://rpc.gene.finance"
+            "https://vm.mvs.org/mainnet/381e0fe4-e67d-4714-9c8c-69c7bd960e54"
         ],
         "faucets": [],
         "infoURL": ""
