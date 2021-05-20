@@ -76,6 +76,34 @@
         }
     },
     {
+        "name": "EtherLite Chain",
+        "chainId": 111,
+        "shortName": "ETL",
+        "chain": "EtherLite",
+        "network": "mainnet",
+        "networkId": 111,
+        "nativeCurrency": {
+            "name": "EtherLite Coin",
+            "symbol": "ETL",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc.etherlite.org"
+        ],
+        "faucets": [
+            "https://etherlite.org/faucets"
+        ],
+        "infoURL": "https://forum.etherlite.org/",
+        "blockExplorerUrls": [
+            "https://explorer.etherlite.org/"
+        ],
+        "app_resource": {
+            "ic_chain_select": "https://etherlite.org/assets/blacklogo.png",
+            "ic_chain_unselect": "https://etherlite.org/assets/whitelogo.png",
+            "color_chain_bg": "0x58B2AF"
+        }
+    },
+    {
         "name": "Polygon (Matic) Mainnet",
         "chainId": 137,
         "shortName": "matic",
