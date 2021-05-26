@@ -2634,5 +2634,23 @@
         ],
         "faucets": [],
         "infoURL": "https://testnet.wanscan.org"
+    },
+     {
+        "name": "HPB Mainnet",
+        "chainId": 269,
+        "shortName": "HPB",
+        "chain": "HPB",
+        "network": "mainnet",
+        "networkId": 100,
+        "nativeCurrency": {
+            "name": "HPB",
+            "symbol": "HPB",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://hpbnode.com"
+        ],
+        "faucets": [],
+        "infoURL": "https://hpb.io"
     }
 ]
