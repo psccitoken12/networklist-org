@@ -417,6 +417,24 @@
         "infoURL": "https://www.klaytn.com/"
     },
     {
+        "name": "Arbitrum Testnet V5",
+        "chainId": 144545313136048,
+        "shortName": "Arbitrum Test",
+        "chain": "Arbitrum Test",
+        "network": "testnet",
+        "networkId": 144545313136048,
+        "nativeCurrency": {
+            "name": "ETH",
+            "symbol": "ETH",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://kovan5.arbitrum.io/rpc"
+        ],
+        "faucets": [],
+        "infoURL": ""
+    },
+    {
         "name": "Newton Testnet",
         "chainId": 1007,
         "shortName": "tnew",
