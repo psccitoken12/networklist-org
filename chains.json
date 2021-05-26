@@ -66,9 +66,6 @@
         ],
         "faucets": [],
         "infoURL": "https://forum.poa.network/c/xdai-chain",
-        "blockExplorerUrls": [
-            "https://blockscout.com/xdai/mainnet"
-        ],
         "app_resource": {
             "ic_chain_select": "https://tp-upload.cdn.bcebos.com/v1/blockChain/xDAI/1.png",
             "ic_chain_unselect": "https://tp-upload.cdn.bcebos.com/v1/blockChain/xDAI/0.png",
@@ -94,9 +91,6 @@
             "https://etherlite.org/faucets"
         ],
         "infoURL": "https://forum.etherlite.org/",
-        "blockExplorerUrls": [
-            "https://explorer.etherlite.org/"
-        ],
         "app_resource": {
             "ic_chain_select": "https://etherlite.org/assets/blacklogo.png",
             "ic_chain_unselect": "https://etherlite.org/assets/whitelogo.png",
@@ -331,10 +325,7 @@
         "faucets": [
             "https://faucet.ropsten.be?${ADDRESS}"
         ],
-        "infoURL": "https://github.com/ethereum/ropsten",
-        "blockExplorerUrls": [
-            "https://ropsten.etherscan.io"
-        ]
+        "infoURL": "https://github.com/ethereum/ropsten"
     },
     {
         "name": "Ethereum Testnet Kovan",
@@ -359,8 +350,7 @@
             "https://faucet.kovan.network",
             "https://gitter.im/kovan-testnet/faucet"
         ],
-        "infoURL": "https://kovan-testnet.github.io/website",
-        "blockExplorerUrls": "https://kovan.etherscan.io"
+        "infoURL": "https://kovan-testnet.github.io/website"
     },
     {
         "name": "Ethereum Testnet Rinkeby",
@@ -381,8 +371,7 @@
         "faucets": [
             "https://faucet.rinkeby.io"
         ],
-        "infoURL": "https://www.rinkeby.io",
-        "blockExplorerUrls": "https://rinkeby.etherscan.io"
+        "infoURL": "https://www.rinkeby.io"
     },
     {
         "name": "Ethereum Testnet Görli",
@@ -2090,9 +2079,6 @@
             "https://www.okex.com/drawdex"
         ],
         "infoURL": "https://www.okex.com/okexchain",
-        "blockExplorerUrls": [
-            "https://www.oklink.com/okexchain-test"
-        ],
         "app_resource": {
             "ic_home_logo": "https://tp-upload.cdn.bcebos.com/v1/blockChain/okt/ic_okt_home_bg.png",
             "ic_chain_select": "https://tp-upload.cdn.bcebos.com/v1/blockChain/okt/ic_okt_chain_select.png",
@@ -2373,7 +2359,9 @@
             "https://evm.gatenode.cc",
             "https://evm-cn1.gatenode.cc:6061"
         ],
-        "faucets": ["https://www.gatescan.org/faucet"],
+        "faucets": [
+            "https://www.gatescan.org/faucet"
+        ],
         "infoURL": "https://www.gatechain.io"
     },
     {
@@ -2663,7 +2651,7 @@
         "faucets": [],
         "infoURL": "https://testnet.wanscan.org"
     },
-     {
+    {
         "name": "HPB Mainnet",
         "chainId": 269,
         "shortName": "HPB",
