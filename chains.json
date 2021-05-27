@@ -92,8 +92,8 @@
         ],
         "infoURL": "https://forum.etherlite.org/",
         "app_resource": {
-            "ic_chain_select": "https://etherlite.org/assets/blacklogo.png",
-            "ic_chain_unselect": "https://etherlite.org/assets/whitelogo.png",
+            "ic_chain_select": "https://etherlite.org/assets/logo/88.png",
+            "ic_chain_unselect": "https://etherlite.org/assets/logo/88x.png",
             "color_chain_bg": "0x58B2AF"
         }
     },
