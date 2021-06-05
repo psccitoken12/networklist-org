@@ -21,24 +21,6 @@
         "infoURL": "https://ethereum.org"
     },
     {
-        "name": "Catecoin Chain Mainnet",
-        "chainId": 1618,
-        "shortName": "cate",
-        "chain": "Catechain",
-        "network": "mainnet",
-        "networkId": 1618,
-        "nativeCurrency": {
-            "name": "Catecoin",
-            "symbol": "CATE",
-            "decimals": 18
-        },
-        "rpc": [
-            "https://send.catechain.com"
-        ],
-        "faucets": [],
-        "infoURL": "https://catechain.com"
-    },
-    {
         "name": "Optimistic Ethereum",
         "chainId": 10,
         "shortName": "oeth",
@@ -323,6 +305,24 @@
         ],
         "faucets": [],
         "infoURL": ""
+    },
+    {
+        "name": "Catecoin Chain Mainnet",
+        "chainId": 1618,
+        "shortName": "cate",
+        "chain": "Catechain",
+        "network": "mainnet",
+        "networkId": 1618,
+        "nativeCurrency": {
+            "name": "Catecoin",
+            "symbol": "CATE",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://send.catechain.com"
+        ],
+        "faucets": [],
+        "infoURL": "https://catechain.com"
     },
     {
         "name": "Ethereum Testnet Ropsten",
