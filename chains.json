@@ -2722,5 +2722,24 @@
         ],
         "faucets": [],
         "infoURL": "https://hpb.io"
+    },
+    {
+        "name": "KuCoin Community Chain Mainnet",
+        "chainId": 321,
+        "shortName": "kcc",
+        "chain": "KCC",
+        "network": "mainnet",
+        "networkId": 321,
+        "nativeCurrency": {
+            "name": "KuCoin Token",
+            "symbol": "KCS",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://rpc-mainnet.kcc.network",
+            "wss://rpc-ws-mainnet.kcc.network"
+        ],
+        "faucets": [],
+        "infoURL": "https://kcc.io"
     }
 ]
