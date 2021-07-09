@@ -471,6 +471,24 @@
         "infoURL": ""
     },
     {
+        "name": "Zenith Smart Chain",
+        "chainId": 20212,
+        "shortName": "ZSC",
+        "chain": "ZSC",
+        "network": "mainnet",
+        "networkId": 20212,
+        "nativeCurrency": {
+            "name": "ZTB",
+            "symbol": "ZTB",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://zsc.one/rpc"
+        ],
+        "faucets": [],
+        "infoURL": ""
+    },
+    {
         "name": "Newton Testnet",
         "chainId": 1007,
         "shortName": "tnew",
