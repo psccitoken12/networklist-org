@@ -2742,12 +2742,12 @@
         "infoURL": "https://hpb.io"
     },
     {
-        "name": "KuCoin Community Chain Mainnet",
+        "name": "KCC Mainnet",
         "chainId": 321,
         "shortName": "kcc",
         "chain": "KCC",
         "network": "mainnet",
-        "networkId": 321,
+        "networkId": 1,
         "nativeCurrency": {
             "name": "KuCoin Token",
             "symbol": "KCS",
@@ -2758,6 +2758,11 @@
             "wss://rpc-ws-mainnet.kcc.network"
         ],
         "faucets": [],
-        "infoURL": "https://kcc.io"
+        "infoURL": "https://kcc.io",
+        "app_resource": {
+            "ic_chain_select": "https://z3.ax1x.com/2021/08/30/hJ4vEq.png",
+            "ic_chain_unselect": "https://z3.ax1x.com/2021/08/30/hJ4vEq.png",
+            "color_chain_bg": "0xF0FFFF"
+        }
     }
 ]
