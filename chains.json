@@ -738,18 +738,20 @@
         "infoURL": "https://moonbeam.network/networks/moonbeam/"
     },
     {
-        "name": "Moonriver Kusama",
+        "name": "Moonriver",
         "chainId": 1285,
-        "shortName": "mriver",
-        "chain": "MOON",
-        "network": "moonriver",
+        "shortName": "Moonriver",
+        "chain": "MOVR",
+        "network": "MOVR",
         "networkId": 1285,
         "nativeCurrency": {
-            "name": "River",
-            "symbol": "RIVER",
+            "name": "MOVR",
+            "symbol": "MOVR",
             "decimals": 18
         },
-        "rpc": [],
+        "rpc": [
+            "https://rpc.moonriver.moonbeam.network"
+        ],
         "faucets": [],
         "infoURL": "https://moonbeam.network/networks/moonriver/"
     },
