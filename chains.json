@@ -140,6 +140,31 @@
         }
     },
     {
+        "name": "SmartBCH Mainnet",
+        "chainId": 10000,
+        "shortName": "BCH",
+        "chain": "BCH",
+        "network": "mainnet",
+        "networkId": 10000,
+        "nativeCurrency": {
+            "name": "SmartBCH",
+            "symbol": "BCH",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://smartbch.greyh.at"
+            "https://smartbch.fountainhead.cash/mainnet"
+            "https://rpc.uatvo.com"
+
+        ],
+        "faucets": [],
+        "infoURL": "https://smartbch.org",
+        "app_resource": { 
+            "ic_chain_select": "https://smartbch.org/_nuxt/img/logo-white-large.73f49c5.png", 
+            "ic_chain_unselect": "https://smartbch.org/_nuxt/img/logo-white-large.73f49c6.png", 
+            "color_chain_bg": "0x2711" }
+    },
+    {
         "name": "Avalanche Mainnet",
         "chainId": 43114,
         "shortName": "Avalanche",
