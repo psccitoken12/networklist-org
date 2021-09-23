@@ -2780,7 +2780,7 @@
                 "decimals": 18
          },
          "rpc": [
-              "https://https://nodes.halo.land"
+              "https://nodes.halo.land"
          ],
          "faucets": [],
         "infoURL": "https://halo.land/#/", 
