@@ -2763,9 +2763,10 @@
             "ic_chain_select": "https://z3.ax1x.com/2021/08/30/hJ4vEq.png",
             "ic_chain_unselect": "https://z3.ax1x.com/2021/08/30/hJ4vEq.png",
             "color_chain_bg": "0xF0FFFF"
-        },
-        {
-         "name": "HALO Mainnet",
+        }
+    },
+    {
+        "name": "HALO Mainnet",
         "chainId": 1280,
         "shortName": "HO",
          "chain": "HALO",
@@ -2777,15 +2778,15 @@
                 "decimals": 18
          },
          "rpc": [
-              "https://https://nodes.halo.land",
+              "https://https://nodes.halo.land"
          ],
          "faucets": [],
         "infoURL": "https://halo.land/#/", 
      "app_resource": {
-            "ic_chain_select": "https://drive.google.com/file/d/1-xnnQZOYbOIuTHbT-Rd29rgantm3y_wV/view?usp=sharing",
-            "ic_chain_unselect": "https://drive.google.com/file/d/1cu8Z6ZpTDQXf1A1Q3W_hyySuir-bbRQ1/view?usp=sharing",
+            "ic_chain_select": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1632371652515.png",
+            "ic_chain_unselect": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1632371627579.png",
           "color_chain_bg": "0xB1232C"
-          },
-        }
- 
+          }
+    }
+] 
 
