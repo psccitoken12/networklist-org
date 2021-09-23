@@ -2790,5 +2790,26 @@
           "color_chain_bg": "0xB1232C"
           }
     }
+    {
+        "name": "SmartBCH Mainnet",
+        "chainId": 10000,
+        "shortName": "BCH",
+        "chain": "BCH",
+        "network": "mainnet",
+        "networkId": 10000,
+        "nativeCurrency": {
+            "name": "SmartBCH",
+            "symbol": "BCH",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://smartbch.greyh.at"
+            "https://smartbch.fountainhead.cash/mainnet"
+            "https://rpc.uatvo.com"
+
+        ],
+        "faucets": [],
+        "infoURL": "https://smartbch.org"
+    },
 ] 
 
