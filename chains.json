@@ -222,11 +222,10 @@
             "decimals": 18
         },
         "rpc": [
-            "https://mainnet.anyswap.exchange",
-            "https://fsn.dev/api"
+            "https://mainnet.anyswap.exchange"
         ],
         "faucets": [],
-        "infoURL": "https://www.fusion.org/",
+        "infoURL": "https://fsnex.com/",
         "app_resource": {
             "ic_chain_select": "https://tp-upload.cdn.bcebos.com/v1/blockChain/Fusion/1.png",
             "ic_chain_unselect": "https://tp-upload.cdn.bcebos.com/v1/blockChain/Fusion/0.png",
@@ -2771,24 +2770,23 @@
         "name": "HALO Mainnet",
         "chainId": 1280,
         "shortName": "HO",
-         "chain": "HALO",
+        "chain": "HALO",
         "network": "mainnet",
         "networkId": 1280,
         "nativeCurrency": {
-               "name": "HALO",
-                "symbol": "HO",
-                "decimals": 18
-         },
-         "rpc": [
-              "https://nodes.halo.land"
-         ],
-         "faucets": [],
-        "infoURL": "https://halo.land/#/", 
-     "app_resource": {
+            "name": "HALO",
+            "symbol": "HO",
+            "decimals": 18
+        },
+        "rpc": [
+            "https://nodes.halo.land"
+        ],
+        "faucets": [],
+        "infoURL": "https://halo.land/#/",
+        "app_resource": {
             "ic_chain_select": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1632371652515.png",
             "ic_chain_unselect": "https://tp-statics.tokenpocket.pro/token/tokenpocket-1632371627579.png",
-          "color_chain_bg": "0xB1232C"
-          }
+            "color_chain_bg": "0xB1232C"
+        }
     }
-] 
-
+]
